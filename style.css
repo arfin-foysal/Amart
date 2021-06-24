@@ -1,0 +1,30 @@
+.bgColor{
+    background-color: #FEEAE9;
+}
+
+  
+
+.Watch{
+    background-color: #FF9C35;
+    margin: 0px 10px;
+    border-radius: 30px;
+}
+.Bag{
+    background-color: #FF589B;
+    margin: 0px 10px;
+    border-radius: 30px;
+}
+.Shoes{
+    background-color: #4289FF;
+    margin: 0px 10px;
+    border-radius: 30px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 6px 10px lightgray;
+    border-radius: 10px;
+}
+.footer{
+    background-color: #FEEAE9;
+    
+}
